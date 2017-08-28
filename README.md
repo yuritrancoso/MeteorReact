@@ -1,2 +1,2 @@
 # MeteorReact
-Meteor + React app
+Meteor + React
